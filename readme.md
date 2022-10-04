@@ -14,6 +14,8 @@
 
 - 🥅 2022 Goals: Learn more about **Full Stack Web Development**
 
+- 🔗 <a href="https://ajaya-portfolio.netlify.app/">Portfolio</a> website 
+
 
 
 <h3 align="left">Connect with me:</h3>
