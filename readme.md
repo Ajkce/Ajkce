@@ -8,11 +8,11 @@
 
 - 👯 I’m looking to collaborate on **amazing team/ organization**
 
-- 💬 Ask me about **REACT, TYPESCRIPT, NODE, AWS, DSA**
+- 💬 Ask me about **REACT, TYPESCRIPT, NODE, MERN, PYTHON**
 
 - 📫 How to reach me **kshettryajaya@gmail.com**
 
-- 🥅 2022 Goals: Learn more about **Full Stack Web Development**
+- 🥅 2023 Goals: Learn more about **Full Stack Web Development**
 
 - 🔗 <a href="https://ajaya-portfolio.netlify.app/">Portfolio</a> website 
 
